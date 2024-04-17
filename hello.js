@@ -1,1 +1,1 @@
-console.log("Hello! Aufa")
+console.log("ExtraOrdinary")
